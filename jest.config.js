@@ -36,4 +36,4 @@ module.exports = async () => {
       ...(config.moduleNameMapper || {}),
     },
   }
-}
+};
